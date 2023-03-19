@@ -1,0 +1,95 @@
+/*----------------Global Classes------------------ */
+body{
+    border: 2px solid black;
+    border-radius: 10px;
+}
+h1{
+    color: rgb(7, 103, 248);
+    margin-top: 0;
+    margin-bottom: 0;
+}
+h2{
+    color: rgb(7, 103, 248);
+    margin-top: 0;
+    margin-bottom: 0;
+}
+hr{
+    border-bottom: 2px solid rgb(7,103,248);
+    margin-top: 0;
+    margin-bottom: 0;
+}
+/*----------------Global Classes------------------ */
+.main-box .Education{
+    margin: 0 10px;
+}
+.main-box .Internship{
+    margin: 0 10px;
+}
+.main-box .Projects{
+    margin: 0 10px;
+}
+.main-box .Skills{
+    margin: 0 10px;
+}
+.main-box .Extra{
+    margin: 0 10px;
+}
+.main-box .Certifications{
+    margin: 0 10px;
+}
+.main-box .Declaration{
+    margin: 0 10px;
+}
+.main-box .name-address{
+    /* margin: 10px 40% 0;
+    width: 400px; */
+    width: 90%;
+    text-align: center;
+}
+.main-box .Yogesh{
+    margin-top: 20px;
+}
+.main-box .address{
+    margin-top: 0px;
+}
+.main-box .complete-education{
+    margin-top: 10px;
+}
+.main-box .education{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px 20px;
+}
+.main-box .Jovac{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px 10px;
+}
+.main-box .FR-SMB {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px 10px;
+}
+.main-box .small-skill{
+    margin: 5px 20px;
+}
+.main-box .Extra-Positions{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 10px;
+}
+.main-box .declaration-text{
+    margin: 5px 20px;
+}
+.box1{
+    display: flex;
+    flex-direction: row;
+    /* border: 2px solid rgb(7, 103, 248); */
+}
+.image{
+    /* border: 5px solid rgb(7, 103, 248); */
+    border-radius: 7px;
+    margin: 10px 10px 0 0;
+    height: 100px;
+    width: 120px;
+}
